@@ -1,4 +1,0 @@
-SCFusion
-========
-
-SC Fusion

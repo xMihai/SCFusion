@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCFusion", "main\SCFusion_vc10.vcxproj", "{9F028A49-3F1C-527D-8A3B-B02716C5851E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StarCraft Gambit", "installer\StarCraft Gambit Setup.vdproj", "{D6323F9A-95DA-46CF-9077-1AECC4932D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		DLL Debug|x86 = DLL Debug|x86
+		DLL Release|x86 = DLL Release|x86
+		DLL Universal Debug|x86 = DLL Universal Debug|x86
+		DLL Universal Release|x86 = DLL Universal Release|x86
+		Release|x86 = Release|x86
+		Universal Debug|x86 = Universal Debug|x86
+		Universal Release|x86 = Universal Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.Debug|x86.Build.0 = Debug|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.DLL Debug|x86.ActiveCfg = DLL Debug|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.DLL Debug|x86.Build.0 = DLL Debug|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.DLL Release|x86.ActiveCfg = DLL Release|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.DLL Release|x86.Build.0 = DLL Release|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.DLL Universal Debug|x86.ActiveCfg = DLL Universal Debug|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.DLL Universal Debug|x86.Build.0 = DLL Universal Debug|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.DLL Universal Release|x86.ActiveCfg = DLL Universal Release|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.DLL Universal Release|x86.Build.0 = DLL Universal Release|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.Release|x86.ActiveCfg = Release|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.Release|x86.Build.0 = Release|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.Universal Debug|x86.ActiveCfg = Universal Debug|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.Universal Debug|x86.Build.0 = Universal Debug|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.Universal Release|x86.ActiveCfg = Universal Release|Win32
+		{9F028A49-3F1C-527D-8A3B-B02716C5851E}.Universal Release|x86.Build.0 = Universal Release|Win32
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.Debug|x86.ActiveCfg = Debug
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.Debug|x86.Build.0 = Debug
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.DLL Debug|x86.ActiveCfg = Debug
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.DLL Debug|x86.Build.0 = Debug
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.DLL Release|x86.ActiveCfg = Release
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.DLL Release|x86.Build.0 = Release
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.DLL Universal Debug|x86.ActiveCfg = Debug
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.DLL Universal Debug|x86.Build.0 = Debug
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.DLL Universal Release|x86.ActiveCfg = Release
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.DLL Universal Release|x86.Build.0 = Release
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.Release|x86.ActiveCfg = Release
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.Release|x86.Build.0 = Release
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.Universal Debug|x86.ActiveCfg = Debug
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.Universal Debug|x86.Build.0 = Debug
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.Universal Release|x86.ActiveCfg = Release
+		{D6323F9A-95DA-46CF-9077-1AECC4932D9E}.Universal Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78E2586E-8CD2-4E2F-8DB9-CCA36F377347}
+	EndGlobalSection
+EndGlobal
